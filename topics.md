@@ -60,6 +60,7 @@
 - [terraform](#terraform)
 - [typescript](#typescript)
 - [web](#web)
+- [web-development](#web-development)
 - [windows](#windows)
 
 ## analytics 
@@ -337,6 +338,10 @@
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 
 ## web 
+
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+
+## web-development 
 
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 
