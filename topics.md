@@ -149,7 +149,7 @@
 
 ## github 
 
-- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🌟 GitHub & GitLab notifications on your desktop
+- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
 
 ## golang 
@@ -322,7 +322,7 @@
 
 ## svelte 
 
-- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🌟 GitHub & GitLab notifications on your desktop
+- [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 
 ## terraform 
