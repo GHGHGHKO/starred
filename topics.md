@@ -195,7 +195,6 @@
 ## kubernetes 
 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-- [astronomer/airflow-chart](https://github.com/astronomer/airflow-chart) - A Helm chart to install Apache Airflow on Kubernetes
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 
 ## language 
