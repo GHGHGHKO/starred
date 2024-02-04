@@ -74,7 +74,6 @@
 - [ajbosco/dag-factory](https://github.com/ajbosco/dag-factory) - Dynamically generate Apache Airflow DAGs from YAML configuration files
 - [pipeline-tools/gusty](https://github.com/pipeline-tools/gusty) - Making DAG construction easier
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [astronomer/airflow-chart](https://github.com/astronomer/airflow-chart) - A Helm chart to install Apache Airflow on Kubernetes
 
 ## Rust 
 
