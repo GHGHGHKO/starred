@@ -15,6 +15,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 
@@ -86,6 +87,10 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+
+## Shell 
+
+- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 
 ## Svelte 
 
