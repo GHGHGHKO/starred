@@ -25,6 +25,7 @@
 - [game-development](#game-development)
 - [git](#git)
 - [github](#github)
+- [go](#go)
 - [golang](#golang)
 - [gradle](#gradle)
 - [graphql](#graphql)
@@ -152,6 +153,10 @@
 
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
+
+## go 
+
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 
 ## golang 
 
