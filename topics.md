@@ -13,13 +13,11 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
-- [bootstrap](#bootstrap)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [computer-science](#computer-science)
 - [csharp](#csharp)
-- [css](#css)
 - [data-science](#data-science)
 - [docker](#docker)
 - [dotnet](#dotnet)
@@ -67,7 +65,6 @@
 - [typescript](#typescript)
 - [web](#web)
 - [web-development](#web-development)
-- [webapp](#webapp)
 - [windows](#windows)
 
 ## analytics 
@@ -107,10 +104,6 @@
 
 - [ESchouten/CleanArchitecture](https://github.com/ESchouten/CleanArchitecture) - Kotlin backend based on the Clean Architecture principles. Ktor, JWT, Exposed, Flyway, OpenAPI/REST & KGraphQL/GraphQL generated endpoints, Gradle.
 
-## bootstrap 
-
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
-
 ## chatgpt 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -122,7 +115,6 @@
 
 ## cli 
 
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
@@ -135,10 +127,6 @@
 ## csharp 
 
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-
-## css 
-
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
 
 ## data-science 
 
@@ -164,21 +152,21 @@
 
 ## git 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [mingrammer/git-tips](https://github.com/mingrammer/git-tips) - :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)
 
 ## github 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
 
 ## go 
 
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 
 ## golang 
 
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 
 ## gradle 
@@ -380,12 +368,7 @@
 
 ## web-development 
 
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-
-## webapp 
-
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
 
 ## windows 
 
