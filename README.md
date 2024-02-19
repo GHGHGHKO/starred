@@ -101,6 +101,7 @@
 
 ## TypeScript 
 
+- [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [chlee125/vrtn](https://github.com/chlee125/vrtn) - 🚧 WIP vite react tailwind typescript i18n template
