@@ -65,6 +65,7 @@
 
 ## Python 
 
+- [farazBhatti/Human-Body-Measurements-using-Computer-Vision](https://github.com/farazBhatti/Human-Body-Measurements-using-Computer-Vision) - Anthropometric measurement extraction using single image
 - [gnuboard/g6](https://github.com/gnuboard/g6) - 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
