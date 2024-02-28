@@ -275,7 +275,6 @@
 
 ## others 
 
-- [farazBhatti/Human-Body-Measurements-using-Computer-Vision](https://github.com/farazBhatti/Human-Body-Measurements-using-Computer-Vision) - Anthropometric measurement extraction using single image
 - [chlee125/vrtn](https://github.com/chlee125/vrtn) - 🚧 WIP vite react tailwind typescript i18n template
 - [gnuboard/g6](https://github.com/gnuboard/g6) - 
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
