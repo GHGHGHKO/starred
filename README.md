@@ -65,7 +65,7 @@
 
 ## Python 
 
-- [gnuboard/g6](https://github.com/gnuboard/g6) - 
+- [gnuboard/g6](https://github.com/gnuboard/g6) - Python CMS with fastapi
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
