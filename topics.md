@@ -276,7 +276,7 @@
 ## others 
 
 - [chlee125/vrtn](https://github.com/chlee125/vrtn) - 🚧 WIP vite react tailwind typescript i18n template
-- [gnuboard/g6](https://github.com/gnuboard/g6) - 
+- [gnuboard/g6](https://github.com/gnuboard/g6) - Python CMS with fastapi
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
