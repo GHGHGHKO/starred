@@ -275,6 +275,7 @@
 
 ## others 
 
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [chlee125/vrtn](https://github.com/chlee125/vrtn) - 🚧 WIP vite react tailwind typescript i18n template
 - [gnuboard/g6](https://github.com/gnuboard/g6) - Python CMS with fastapi
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
