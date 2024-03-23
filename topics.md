@@ -8,7 +8,6 @@
 - [analytics](#analytics)
 - [android](#android)
 - [api](#api)
-- [aspnet](#aspnet)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -17,10 +16,8 @@
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [computer-science](#computer-science)
-- [csharp](#csharp)
 - [data-science](#data-science)
 - [docker](#docker)
-- [dotnet](#dotnet)
 - [framework](#framework)
 - [game-development](#game-development)
 - [git](#git)
@@ -60,7 +57,6 @@
 - [server](#server)
 - [software](#software)
 - [sql](#sql)
-- [sql-server](#sql-server)
 - [svelte](#svelte)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -83,11 +79,6 @@
 - [DDtKey/protect-endpoints](https://github.com/DDtKey/protect-endpoints) - Authorization extension for popular web-frameworks to protect your endpoints
 - [ndelvalle/rustapi](https://github.com/ndelvalle/rustapi) - 🚀 RESTful Rust API Template / Boilerplate
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-
-## aspnet 
-
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 
 ## automation 
 
@@ -128,10 +119,6 @@
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-## csharp 
-
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-
 ## data-science 
 
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -142,11 +129,6 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-
-## dotnet 
-
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 
 ## framework 
 
@@ -362,11 +344,6 @@
 
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-
-## sql-server 
-
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 
 ## svelte 
 
