@@ -35,6 +35,7 @@
 
 ## Java 
 
+- [jaeyunkim-1024/myfit_server](https://github.com/jaeyunkim-1024/myfit_server) - jdk 21, springBoot 3.2.3
 - [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
 
