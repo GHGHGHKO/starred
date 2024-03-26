@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
 - [api](#api)
@@ -65,6 +66,10 @@
 - [web](#web)
 - [web-development](#web-development)
 - [windows](#windows)
+
+## ai 
+
+- [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 ## analytics 
 
