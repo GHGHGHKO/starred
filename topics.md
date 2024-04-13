@@ -268,6 +268,7 @@
 
 ## others 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [jaeyunkim-1024/myfit_server](https://github.com/jaeyunkim-1024/myfit_server) - jdk 21, springBoot 3.2.3
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [gnuboard/g6](https://github.com/gnuboard/g6) - Python CMS with fastapi
