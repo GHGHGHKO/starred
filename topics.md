@@ -18,6 +18,7 @@
 - [cli](#cli)
 - [computer-science](#computer-science)
 - [data-science](#data-science)
+- [deep-learning](#deep-learning)
 - [docker](#docker)
 - [framework](#framework)
 - [game-development](#game-development)
@@ -49,6 +50,7 @@
 - [others](#others)
 - [postgresql](#postgresql)
 - [python](#python)
+- [pytorch](#pytorch)
 - [react](#react)
 - [reactjs](#reactjs)
 - [redux](#redux)
@@ -130,6 +132,10 @@
 ## data-science 
 
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+
+## deep-learning 
+
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 
 ## docker 
 
@@ -224,6 +230,7 @@
 
 ## machine-learning 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 ## macos 
@@ -299,6 +306,10 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ajbosco/dag-factory](https://github.com/ajbosco/dag-factory) - Dynamically generate Apache Airflow DAGs from YAML configuration files
 - [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser
+
+## pytorch 
+
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 
 ## react 
 
