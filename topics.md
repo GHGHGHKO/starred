@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -69,6 +70,10 @@
 - [web](#web)
 - [web-development](#web-development)
 - [windows](#windows)
+
+## 3d 
+
+- [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 
 ## ai 
 
