@@ -29,10 +29,12 @@
 - [git](#git)
 - [github](#github)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -71,6 +73,8 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
+- [unity](#unity)
+- [unreal-engine](#unreal-engine)
 - [web](#web)
 - [web-development](#web-development)
 - [windows](#windows)
@@ -191,6 +195,10 @@
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 
+## godot 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
+
 ## golang 
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -211,6 +219,10 @@
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for macOS, Linux and Windows
+
+## html5 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
 
 ## http 
 
@@ -436,6 +448,14 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
+
+## unity 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
+
+## unreal-engine 
+
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
 
 ## web 
 
