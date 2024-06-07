@@ -50,6 +50,7 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
+- [music](#music)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
@@ -74,6 +75,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
@@ -297,6 +299,10 @@
 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 
+## music 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+
 ## mysql 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -457,6 +463,10 @@
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 
+## twitter 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+
 ## typescript 
 
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
@@ -486,6 +496,7 @@
 
 ## webapp 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 
 ## windows 
