@@ -346,7 +346,6 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [jaeyunkim-1024/myfit_server](https://github.com/jaeyunkim-1024/myfit_server) - jdk 21, springBoot 3.2.3
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
-- [gnuboard/g6](https://github.com/gnuboard/g6) - Python CMS with fastapi
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -371,6 +370,7 @@
 ## python 
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - Test your HTTP API using a powerful and modern terminal user interface
+- [gnuboard/g6](https://github.com/gnuboard/g6) - 파이썬 게시판 그누보드6 : GNUBOARD6 is Python CMS with fastapi
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ajbosco/dag-factory](https://github.com/ajbosco/dag-factory) - Dynamically generate Apache Airflow DAGs from YAML configuration files
