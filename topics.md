@@ -112,7 +112,7 @@
 
 ## automation 
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that lives in your terminal.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 
@@ -142,12 +142,12 @@
 
 ## cli 
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that lives in your terminal.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
 ## computer-science 
 
@@ -203,7 +203,7 @@
 
 ## go 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
 ## godot 
 
@@ -211,7 +211,7 @@
 
 ## golang 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
 ## gradle 
 
@@ -236,7 +236,7 @@
 
 ## http 
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that lives in your terminal.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 
 ## image-processing 
@@ -320,14 +320,14 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [GHGHGHKO/dalgona](https://github.com/GHGHGHKO/dalgona) - 🦀Tauri desktop app with shadcn/ui, Next.js, GIF meme finder app for Windows and macOS. (dalgona)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 
 ## nodejs 
 
 - [KiwiTalk/KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) - An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript & Rust (SolidJS, tauri)
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
 ## npm 
 
@@ -336,7 +336,7 @@
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
 ## others 
 
@@ -369,7 +369,7 @@
 
 ## python 
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that lives in your terminal.
 - [gnuboard/g6](https://github.com/gnuboard/g6) - 파이썬 게시판 그누보드6 : GNUBOARD6 is Python CMS with fastapi
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -388,7 +388,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [0plan/vrtn](https://github.com/0plan/vrtn) - 🚀 vite react tailwind typescript i18n template
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 
 ## reactjs 
@@ -403,7 +403,7 @@
 
 ## rest-api 
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that lives in your terminal.
 - [GHGHGHKO/klassic-quote](https://github.com/GHGHGHKO/klassic-quote) - A REST API for Korean classic movies quotes
 - [GHGHGHKO/klassic-quote-api](https://github.com/GHGHGHKO/klassic-quote-api) - Korean movie quotes API
 
@@ -426,7 +426,7 @@
 
 ## security 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 
 ## self-hosted 
@@ -468,7 +468,7 @@
 
 ## terminal 
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that lives in your terminal.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
 
@@ -492,7 +492,7 @@
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
 - [KiwiTalk/KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) - An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript & Rust (SolidJS, tauri)
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 
 ## unity 
