@@ -86,7 +86,7 @@
 - [agentphantom/agentphantom](https://github.com/agentphantom/agentphantom) - Automated GitHub profile content using the USGS API, Plotly and GitHub Actions.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [ajbosco/dag-factory](https://github.com/ajbosco/dag-factory) - Dynamically generate Apache Airflow DAGs from YAML configuration files
+- [astronomer/dag-factory](https://github.com/astronomer/dag-factory) - Dynamically generate Apache Airflow DAGs from YAML configuration files
 - [pipeline-tools/gusty](https://github.com/pipeline-tools/gusty) - Making DAG construction easier
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 
