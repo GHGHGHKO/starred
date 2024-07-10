@@ -18,7 +18,6 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
-- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -117,10 +116,6 @@
 
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
-
-## Swift 
-
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
 ## TypeScript 
 
