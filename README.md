@@ -23,7 +23,7 @@
 
 ## C# # 
 
-- [Imnyeong/Delivery_King_Thunderbolt](https://github.com/Imnyeong/Delivery_King_Thunderbolt) - [배달왕 번개] 가속도 센서를 활용한 2D 모바일 게임
+- [Imnyeong/Delivery_King_Thunderbolt](https://github.com/Imnyeong/Delivery_King_Thunderbolt) - 2D Mobile Game, Using acceleration sensors
 
 ## Go 
 
