@@ -321,7 +321,6 @@
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [agentphantom/agentphantom](https://github.com/agentphantom/agentphantom) - Automated GitHub profile content using the USGS API, Plotly and GitHub Actions.
 - [JunaHwang/Annoying_Orange_mk](https://github.com/JunaHwang/Annoying_Orange_mk) - 
-- [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
 - [HomoEfficio/dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
 - [pipeline-tools/gusty](https://github.com/pipeline-tools/gusty) - Making DAG construction easier
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
