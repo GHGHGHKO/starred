@@ -34,6 +34,7 @@
 - [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [javascript](#javascript)
 - [js](#js)
@@ -223,6 +224,10 @@
 ## image-processing 
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 
 ## ios 
 
