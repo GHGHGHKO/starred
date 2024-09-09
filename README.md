@@ -31,7 +31,6 @@
 
 ## HTML 
 
-- [JunaHwang/Task_Helper](https://github.com/JunaHwang/Task_Helper) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [HomoEfficio/dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -48,6 +47,7 @@
 
 ## JavaScript 
 
+- [JunaHwang/Task_Helper](https://github.com/JunaHwang/Task_Helper) - 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [mpetroff/pannellum](https://github.com/mpetroff/pannellum) - Pannellum is a lightweight, free, and open source panorama viewer for the web.
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
