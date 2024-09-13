@@ -322,7 +322,6 @@
 - [heejin-hwang/mobile-wedding-invitation](https://github.com/heejin-hwang/mobile-wedding-invitation) - 알록달록 봄 느낌이 물씬 나는 모바일 청첩장입니다.
 - [zziaho/vuedongsan](https://github.com/zziaho/vuedongsan) - Vue로 만드는 직방웹앱
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-- [jaeyunkim-1024/myfit_server](https://github.com/jaeyunkim-1024/myfit_server) - jdk 21, springBoot 3.2.3
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
