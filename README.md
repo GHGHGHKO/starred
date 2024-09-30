@@ -113,7 +113,6 @@
 
 ## Svelte 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 
