@@ -34,7 +34,6 @@
 - [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
-- [instagram](#instagram)
 - [ios](#ios)
 - [javascript](#javascript)
 - [js](#js)
@@ -48,7 +47,6 @@
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
-- [music](#music)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -73,7 +71,6 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
-- [twitter](#twitter)
 - [typescript](#typescript)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
@@ -224,10 +221,6 @@
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 
-## instagram 
-
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
 ## ios 
 
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
@@ -288,10 +281,6 @@
 ## monitoring 
 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-
-## music 
-
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## nextjs 
 
@@ -451,10 +440,6 @@
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 
-## twitter 
-
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
 ## typescript 
 
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
@@ -483,7 +468,6 @@
 
 ## webapp 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 
 ## windows 
