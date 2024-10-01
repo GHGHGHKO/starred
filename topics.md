@@ -305,6 +305,7 @@
 
 ## others 
 
+- [awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group) - AWSKRUG Platform Engineering Group
 - [JunaHwang/Task_Helper](https://github.com/JunaHwang/Task_Helper) - 
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [heejin-hwang/mobile-wedding-invitation](https://github.com/heejin-hwang/mobile-wedding-invitation) - 알록달록 봄 느낌이 물씬 나는 모바일 청첩장입니다.
