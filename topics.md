@@ -330,7 +330,7 @@
 ## others 
 
 - [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
-- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
+- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group) - AWSKRUG Platform Engineering Group
 - [JunaHwang/Task_Helper](https://github.com/JunaHwang/Task_Helper) - 
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
