@@ -20,6 +20,7 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## C# # 
 
@@ -145,6 +146,10 @@
 ## Vue 
 
 - [zziaho/vuedongsan](https://github.com/zziaho/vuedongsan) - Vue로 만드는 직방웹앱
+
+## Zig 
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
 ## License
