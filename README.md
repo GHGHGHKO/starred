@@ -6,6 +6,7 @@
 ## Contents
 
 - [C#](#c#)
+- [F#](#f#)
 - [Go](#go)
 - [HTML](#html)
 - [JSON](#json)
@@ -26,12 +27,17 @@
 
 - [Imnyeong/Delivery_King_Thunderbolt](https://github.com/Imnyeong/Delivery_King_Thunderbolt) - 2D Mobile Game, Using acceleration sensors
 
+## F# # 
+
+- [MaxGripe/skunk-html](https://github.com/MaxGripe/skunk-html) - 🦨 Markdown Blog with GitHub Pages. Easy setup!
+
 ## Go 
 
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## HTML 
 
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [HomoEfficio/dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
