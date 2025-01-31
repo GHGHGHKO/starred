@@ -57,7 +57,6 @@
 - [JunaHwang/Task_Helper](https://github.com/JunaHwang/Task_Helper) - 
 - [mpetroff/pannellum](https://github.com/mpetroff/pannellum) - Pannellum is a lightweight, free, and open source panorama viewer for the web.
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
-- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 
 ## Jupyter Notebook 
@@ -81,6 +80,7 @@
 
 ## Python 
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [DeDolphins/DataHorse](https://github.com/DeDolphins/DataHorse) - Chat with your data, modify it, visualize it, create and test machine learning models all in plain English. DataHorse makes data analysis and data science conversational using LLMs.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -89,7 +89,6 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 - [gnuboard/g6](https://github.com/gnuboard/g6) - 파이썬 게시판 그누보드6 : GNUBOARD6 is Python CMS with fastapi
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [agentphantom/agentphantom](https://github.com/agentphantom/agentphantom) - Automated GitHub profile content using the USGS API, Plotly and GitHub Actions.
@@ -155,6 +154,7 @@
 ## Vue 
 
 - [zziaho/vuedongsan](https://github.com/zziaho/vuedongsan) - Vue로 만드는 직방웹앱
+- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 
 ## Zig 
 
