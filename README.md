@@ -55,7 +55,6 @@
 
 - [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
 - [JunaHwang/Task_Helper](https://github.com/JunaHwang/Task_Helper) - 
-- [mpetroff/pannellum](https://github.com/mpetroff/pannellum) - Pannellum is a lightweight, free, and open source panorama viewer for the web.
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 
