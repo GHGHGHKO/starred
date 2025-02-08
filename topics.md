@@ -15,6 +15,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
+- [bootstrap](#bootstrap)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -22,6 +23,7 @@
 - [code](#code)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
+- [css](#css)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -37,10 +39,13 @@
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [html](#html)
+- [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [javascript](#javascript)
+- [jekyll](#jekyll)
 - [js](#js)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -68,6 +73,7 @@
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
+- [sass](#sass)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -137,6 +143,10 @@
 
 - [ESchouten/CleanArchitecture](https://github.com/ESchouten/CleanArchitecture) - Kotlin backend based on the Clean Architecture principles. Ktor, JWT, Exposed, Flyway, OpenAPI/REST & KGraphQL/GraphQL generated endpoints, Gradle.
 
+## bootstrap 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
 ## chatbot 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -170,6 +180,10 @@
 ## computer-vision 
 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+
+## css 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## data 
 
@@ -245,6 +259,14 @@
 - [KiwiTalk/KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) - An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript & Rust (SolidJS, tauri)
 - [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for macOS, Linux and Windows
 
+## html 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+## html5 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
 ## http 
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -262,6 +284,10 @@
 
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [KiwiTalk/KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) - An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript & Rust (SolidJS, tauri)
+
+## jekyll 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## js 
 
@@ -347,7 +373,6 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter) - A website startup template using the Chirpy theme gem.
-- [pmndrs/gltf-react-three](https://github.com/pmndrs/gltf-react-three) - Convert GLTF files to React Three Fiber Components
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group) - AWSKRUG Platform Engineering Group
 - [JunaHwang/Task_Helper](https://github.com/JunaHwang/Task_Helper) - 
@@ -440,6 +465,10 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+
+## sass 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## security 
 
