@@ -44,6 +44,7 @@
 - [http](#http)
 - [image-processing](#image-processing)
 - [ios](#ios)
+- [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [js](#js)
@@ -79,6 +80,8 @@
 - [server](#server)
 - [serverless](#serverless)
 - [software](#software)
+- [spring](#spring)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
@@ -219,6 +222,7 @@
 
 ## framework 
 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Superfast fullstack React framework
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 
@@ -279,6 +283,10 @@
 ## ios 
 
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
+
+## java 
+
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## javascript 
 
@@ -493,6 +501,14 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## spring 
+
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+## spring-boot 
+
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## sql 
 
