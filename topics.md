@@ -222,6 +222,7 @@
 
 ## framework 
 
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) - Spring Security
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Superfast fullstack React framework
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
@@ -286,6 +287,7 @@
 
 ## java 
 
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) - Spring Security
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## javascript 
@@ -482,6 +484,7 @@
 
 ## security 
 
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) - Spring Security
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 
 ## self-hosted 
@@ -504,6 +507,7 @@
 
 ## spring 
 
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) - Spring Security
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## spring-boot 
