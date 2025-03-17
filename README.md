@@ -26,7 +26,7 @@
 
 ## C# # 
 
-- [Imnyeong/Delivery_King_Thunderbolt](https://github.com/Imnyeong/Delivery_King_Thunderbolt) - 2D Mobile Game, Using acceleration sensors
+- [Imnyeong/delivery-king-thunderbolt](https://github.com/Imnyeong/delivery-king-thunderbolt) - 2D Mobile Game, Using acceleration sensors
 
 ## F# # 
 
