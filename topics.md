@@ -404,7 +404,7 @@
 - [pipeline-tools/gusty](https://github.com/pipeline-tools/gusty) - Making DAG construction easier
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool
-- [Imnyeong/Delivery_King_Thunderbolt](https://github.com/Imnyeong/Delivery_King_Thunderbolt) - 2D Mobile Game, Using acceleration sensors
+- [Imnyeong/delivery-king-thunderbolt](https://github.com/Imnyeong/delivery-king-thunderbolt) - 2D Mobile Game, Using acceleration sensors
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [woowacourse/woowacourse-docs](https://github.com/woowacourse/woowacourse-docs) - 우아한테크코스 문서를 관리하는 저장소
 
