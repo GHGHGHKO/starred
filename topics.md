@@ -52,6 +52,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -63,6 +64,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [postgresql](#postgresql)
 - [python](#python)
@@ -102,6 +104,7 @@
 
 ## ai 
 
+- [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
@@ -326,6 +329,10 @@
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 
+## llm 
+
+- [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
+
 ## machine-learning 
 
 - [DeDolphins/DataHorse](https://github.com/DeDolphins/DataHorse) - Chat with your data, modify it, visualize it, create and test machine learning models all in plain English. DataHorse makes data analysis and data science conversational using LLMs.
@@ -381,6 +388,10 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## openai 
+
+- [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
+
 ## others 
 
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -410,6 +421,7 @@
 
 ## postgresql 
 
+- [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
 
 ## python 
