@@ -29,6 +29,7 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [development](#development)
 - [docker](#docker)
 - [framework](#framework)
 - [game-development](#game-development)
@@ -211,6 +212,10 @@
 ## deno 
 
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Serverless for stateful backends
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## docker 
 
