@@ -84,6 +84,7 @@
 
 ## Python 
 
+- [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [DeDolphins/DataHorse](https://github.com/DeDolphins/DataHorse) - Chat with your data, modify it, visualize it, create and test machine learning models all in plain English. DataHorse makes data analysis and data science conversational using LLMs.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
