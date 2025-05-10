@@ -164,7 +164,6 @@
 ## Vue 
 
 - [zziaho/vuedongsan](https://github.com/zziaho/vuedongsan) - Vue로 만드는 직방웹앱
-- [andreax79/airflow-code-editor](https://github.com/andreax79/airflow-code-editor) - A plugin for Apache Airflow that allows you to edit DAGs in browser
 
 ## Zig 
 
