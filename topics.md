@@ -333,6 +333,7 @@
 
 ## llm 
 
+- [mori-mmmm/Rini-API-server](https://github.com/mori-mmmm/Rini-API-server) - FastAPI로 구축된 다중 LLM(Gemini, OpenAI, Anthropic) 통합 API 게이트웨이: 키 관리, 세션, 메모리, 사용량 추적 지원.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 ## machine-learning 
@@ -392,6 +393,7 @@
 
 ## openai 
 
+- [mori-mmmm/Rini-API-server](https://github.com/mori-mmmm/Rini-API-server) - FastAPI로 구축된 다중 LLM(Gemini, OpenAI, Anthropic) 통합 API 게이트웨이: 키 관리, 세션, 메모리, 사용량 추적 지원.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 ## others 
