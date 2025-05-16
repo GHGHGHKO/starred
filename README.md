@@ -30,7 +30,7 @@
 
 ## F# # 
 
-- [MaxGripe/skunk-html](https://github.com/MaxGripe/skunk-html) - Markdown Blog with GitHub Pages. Easy setup!
+- [mg0x7BE/skunk-html](https://github.com/mg0x7BE/skunk-html) - Markdown Blog with GitHub Pages. Easy setup!
 
 ## Go 
 
