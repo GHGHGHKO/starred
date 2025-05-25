@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C#](#c#)
 - [F#](#f#)
 - [Go](#go)
@@ -22,6 +23,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Astro 
+
+- [srleom/astro-theme-resume](https://github.com/srleom/astro-theme-resume) - An open-sourced personal resume site template with a blog, built with Astro and Tailwind.
 
 ## C# # 
 
