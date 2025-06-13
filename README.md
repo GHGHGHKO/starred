@@ -91,10 +91,10 @@
 
 ## Python 
 
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [mori-mmmm/Rini-API-server](https://github.com/mori-mmmm/Rini-API-server) - FastAPI로 구축된 다중 LLM(Gemini, OpenAI, Anthropic) 통합 API 게이트웨이: 키 관리, 세션, 메모리, 사용량 추적 지원.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [DeDolphins/DataHorse](https://github.com/DeDolphins/DataHorse) - Chat with your data, modify it, visualize it, create and test machine learning models all in plain English. DataHorse makes data analysis and data science conversational using LLMs.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -150,11 +150,9 @@
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [heejin-hwang/mobile-wedding-invitation](https://github.com/heejin-hwang/mobile-wedding-invitation) - 알록달록 봄 느낌이 물씬 나는 모바일 청첩장입니다.
 - [GHGHGHKO/klassic-quote](https://github.com/GHGHGHKO/klassic-quote) - A REST API for Korean classic movies quotes
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
