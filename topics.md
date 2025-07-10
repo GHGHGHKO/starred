@@ -422,6 +422,7 @@
 
 ## others 
 
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) - A clean book theme for scientific explanations and documentation with Sphinx
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
 - [srleom/astro-theme-resume](https://github.com/srleom/astro-theme-resume) - An open-sourced personal resume site template with a blog, built with Astro and Tailwind.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
