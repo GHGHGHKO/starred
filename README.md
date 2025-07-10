@@ -73,6 +73,7 @@
 
 ## Jupyter Notebook 
 
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) - A clean book theme for scientific explanations and documentation with Sphinx
 - [JunaHwang/Annoying_Orange_mk](https://github.com/JunaHwang/Annoying_Orange_mk) - 
 
 ## Kotlin 
