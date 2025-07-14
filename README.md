@@ -94,6 +94,7 @@
 
 ## Python 
 
+- [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [mori-mmmm/Rini-API-server](https://github.com/mori-mmmm/Rini-API-server) - FastAPI로 구축된 다중 LLM(Gemini, OpenAI, Anthropic) 통합 API 게이트웨이: 키 관리, 세션, 메모리, 사용량 추적 지원.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -135,6 +136,7 @@
 
 ## Shell 
 
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter) - A website startup template using the Chirpy theme gem.
 - [awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group) - AWSKRUG Platform Engineering Group
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
