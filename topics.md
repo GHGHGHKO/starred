@@ -14,6 +14,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
+- [bash](#bash)
 - [bootstrap](#bootstrap)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -30,6 +31,7 @@
 - [database](#database)
 - [deno](#deno)
 - [development](#development)
+- [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
@@ -46,6 +48,7 @@
 - [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -71,6 +74,7 @@
 - [openai](#openai)
 - [others](#others)
 - [postgresql](#postgresql)
+- [productivity](#productivity)
 - [python](#python)
 - [react](#react)
 - [react-native](#react-native)
@@ -105,6 +109,7 @@
 
 ## ai 
 
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
@@ -130,10 +135,12 @@
 
 ## artificial-intelligence 
 
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
 ## automation 
 
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -152,6 +159,10 @@
 ## backend 
 
 - [ESchouten/CleanArchitecture](https://github.com/ESchouten/CleanArchitecture) - Kotlin backend based on the Clean Architecture principles. Ktor, JWT, Exposed, Flyway, OpenAPI/REST & KGraphQL/GraphQL generated endpoints, Gradle.
+
+## bash 
+
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 
 ## bootstrap 
 
@@ -229,6 +240,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## devops 
+
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
+
 ## docker 
 
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
@@ -257,6 +272,7 @@
 
 ## git 
 
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [mingrammer/git-tips](https://github.com/mingrammer/git-tips) - :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)
 
@@ -310,6 +326,10 @@
 ## image-processing 
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+## instagram 
+
+- [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
 
 ## ios 
 
@@ -414,6 +434,7 @@
 
 ## open-source 
 
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## openai 
@@ -459,8 +480,13 @@
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
 
+## productivity 
+
+- [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
+
 ## python 
 
+- [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [gnuboard/g6](https://github.com/gnuboard/g6) - 파이썬 게시판 그누보드6 : GNUBOARD6 is Python CMS with fastapi
