@@ -20,6 +20,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [cms](#cms)
 - [code](#code)
 - [computer-science](#computer-science)
 - [csharp](#csharp)
@@ -191,6 +192,11 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
+
+## cms 
+
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [gnuboard/g6](https://github.com/gnuboard/g6) - 파이썬 게시판 그누보드6 : GNUBOARD6 is Python CMS with fastapi
 
 ## code 
 
