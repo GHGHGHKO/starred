@@ -94,6 +94,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [mori-mmmm/Rini-API-server](https://github.com/mori-mmmm/Rini-API-server) - FastAPI로 구축된 다중 LLM(Gemini, OpenAI, Anthropic) 통합 API 게이트웨이: 키 관리, 세션, 메모리, 사용량 추적 지원.
