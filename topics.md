@@ -24,6 +24,7 @@
 - [cms](#cms)
 - [code](#code)
 - [computer-science](#computer-science)
+- [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
 - [data](#data)
@@ -215,6 +216,10 @@
 ## computer-science 
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## crawler 
+
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 
 ## csharp 
 
