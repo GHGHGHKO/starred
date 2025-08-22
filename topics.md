@@ -59,6 +59,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [js](#js)
+- [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -382,6 +383,10 @@
 
 - [KiwiTalk/KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) - An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript & Rust (SolidJS, tauri)
 
+## json 
+
+- [podosoft-dev/pdjsoneditor](https://github.com/podosoft-dev/pdjsoneditor) - A powerful JSON visualization and editing tool with interactive graph view
+
 ## kotlin 
 
 - [Rudge/kotlin-ktor-realworld-example-app](https://github.com/Rudge/kotlin-ktor-realworld-example-app) - Real world backend API built in Kotlin with Ktor + Kodein + Exposed
@@ -631,6 +636,7 @@
 
 ## svelte 
 
+- [podosoft-dev/pdjsoneditor](https://github.com/podosoft-dev/pdjsoneditor) - A powerful JSON visualization and editing tool with interactive graph view
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
@@ -644,6 +650,7 @@
 
 ## tailwindcss 
 
+- [podosoft-dev/pdjsoneditor](https://github.com/podosoft-dev/pdjsoneditor) - A powerful JSON visualization and editing tool with interactive graph view
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
@@ -673,6 +680,7 @@
 
 ## typescript 
 
+- [podosoft-dev/pdjsoneditor](https://github.com/podosoft-dev/pdjsoneditor) - A powerful JSON visualization and editing tool with interactive graph view
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
