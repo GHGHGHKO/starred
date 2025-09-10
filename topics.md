@@ -94,11 +94,13 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
+- [shell](#shell)
 - [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
+- [statistics](#statistics)
 - [svelte](#svelte)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
@@ -177,6 +179,7 @@
 
 ## bash 
 
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 
 ## bootstrap 
@@ -304,6 +307,7 @@
 
 ## git 
 
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [mingrammer/git-tips](https://github.com/mingrammer/git-tips) - :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)
@@ -610,6 +614,10 @@
 
 - [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
+## shell 
+
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+
 ## software 
 
 - [yybmion/public-apis-4Kr](https://github.com/yybmion/public-apis-4Kr) - 한국 서비스에 이용 가능한 Public API 모음 | Public APIs Available for Korean Services
@@ -633,6 +641,10 @@
 
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
+
+## statistics 
+
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## svelte 
 
