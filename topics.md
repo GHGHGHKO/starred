@@ -33,7 +33,6 @@
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
-- [deno](#deno)
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
@@ -41,10 +40,8 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [framework](#framework)
-- [game-development](#game-development)
 - [git](#git)
 - [github](#github)
-- [godot](#godot)
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
@@ -110,7 +107,6 @@
 - [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [ui](#ui)
-- [unreal-engine](#unreal-engine)
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
@@ -262,10 +258,6 @@
 
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 
-## deno 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## developer-tools 
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -301,10 +293,6 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 
-## game-development 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
-
 ## git 
 
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
@@ -319,10 +307,6 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
-
-## godot 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 
 ## gradle 
 
@@ -705,10 +689,6 @@
 ## ui 
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-## unreal-engine 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 
 ## web 
 
