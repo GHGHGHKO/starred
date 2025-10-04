@@ -107,6 +107,7 @@
 - [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [ui](#ui)
+- [visualization](#visualization)
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
@@ -694,6 +695,10 @@
 ## ui 
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+## visualization 
+
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 
 ## web 
 
