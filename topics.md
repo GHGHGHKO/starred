@@ -143,7 +143,7 @@
 - [GHGHGHKO/klassic-quote-api](https://github.com/GHGHGHKO/klassic-quote-api) - Korean movie quotes API
 - [DDtKey/protect-endpoints](https://github.com/DDtKey/protect-endpoints) - Authorization extension for popular web-frameworks to protect your endpoints
 - [ndelvalle/rustapi](https://github.com/ndelvalle/rustapi) - 🚀 RESTful Rust API Template / Boilerplate
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## artificial-intelligence 
