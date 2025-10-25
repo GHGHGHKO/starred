@@ -47,6 +47,7 @@
 
 ## HTML 
 
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [HomoEfficio/dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
@@ -59,7 +60,6 @@
 ## Java 
 
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-- [naver/scavenger](https://github.com/naver/scavenger) - A runtime dead code analysis tool
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
 
 ## JavaScript 
@@ -102,7 +102,6 @@
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [DeDolphins/DataHorse](https://github.com/DeDolphins/DataHorse) - Chat with your data, modify it, visualize it, create and test machine learning models all in plain English. DataHorse makes data analysis and data science conversational using LLMs.
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
@@ -113,7 +112,6 @@
 - [agentphantom/agentphantom](https://github.com/agentphantom/agentphantom) - Automated GitHub profile content using the USGS API, Plotly and GitHub Actions.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [astronomer/dag-factory](https://github.com/astronomer/dag-factory) - Construct Apache Airflow DAGs Declaratively via YAML configuration files
 - [pipeline-tools/gusty](https://github.com/pipeline-tools/gusty) - Making DAG construction easier
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 
@@ -130,7 +128,6 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [ndelvalle/rustapi](https://github.com/ndelvalle/rustapi) - 🚀 RESTful Rust API Template / Boilerplate
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [KiwiTalk/KiwiTalk](https://github.com/KiwiTalk/KiwiTalk) - An UNOFFICIAL cross-platform KakaoTalk client written in TypeScript & Rust (SolidJS, tauri)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -142,7 +139,6 @@
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter) - A website startup template using the Chirpy theme gem.
 - [awskrug/platform-engineering-group](https://github.com/awskrug/platform-engineering-group) - AWSKRUG Platform Engineering Group
-- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 
 ## Svelte 
 
@@ -166,7 +162,6 @@
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [heejin-hwang/mobile-wedding-invitation](https://github.com/heejin-hwang/mobile-wedding-invitation) - 알록달록 봄 느낌이 물씬 나는 모바일 청첩장입니다.
 - [GHGHGHKO/klassic-quote](https://github.com/GHGHGHKO/klassic-quote) - A REST API for Korean classic movies quotes
