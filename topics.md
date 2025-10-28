@@ -451,6 +451,7 @@
 
 ## others 
 
+- [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [kennycha/soft-landing](https://github.com/kennycha/soft-landing) - A web-based tool that generates ready-to-use landing pages from TOML configuration
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
