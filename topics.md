@@ -456,6 +456,7 @@
 
 ## others 
 
+- [commerce-wave/wtree](https://github.com/commerce-wave/wtree) - `wtree` is a CLI tool that leverages Git's worktree feature to easily set up and manage parallel development environments where you can work on multiple branches simultaneously.
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [kennycha/soft-landing](https://github.com/kennycha/soft-landing) - A web-based tool that generates ready-to-use landing pages from TOML configuration
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
