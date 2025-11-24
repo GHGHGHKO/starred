@@ -38,7 +38,7 @@
 
 ## F# # 
 
-- [mg0x7BE/skunk-html](https://github.com/mg0x7BE/skunk-html) - Markdown Blog with GitHub Pages. Easy setup!
+- [mg0x7BE/skunk-html](https://github.com/mg0x7BE/skunk-html) - Markdown blog with GitHub Pages
 
 ## Go 
 
