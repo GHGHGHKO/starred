@@ -42,6 +42,7 @@
 
 ## Go 
 
+- [boringSQL/regresql](https://github.com/boringSQL/regresql) - Regression Testing your SQL queries
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
