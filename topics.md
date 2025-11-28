@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -117,6 +118,10 @@
 ## 3d 
 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+
+## agent 
+
+- [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 ## ai 
 
