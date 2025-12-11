@@ -41,6 +41,7 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [framework](#framework)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [gradle](#gradle)
@@ -298,6 +299,10 @@
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+
+## generative-ai 
+
+- [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 
 ## git 
 
