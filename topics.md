@@ -107,6 +107,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
 - [visualization](#visualization)
@@ -690,6 +691,13 @@
 ## text-to-speech 
 
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
+
+## tui 
+
+- [furkan/dockerlings](https://github.com/furkan/dockerlings) - learn docker in your terminal, with bite sized exercises
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## typescript 
 
