@@ -511,7 +511,6 @@
 
 ## others 
 
-- [boringSQL/regresql](https://github.com/boringSQL/regresql) - Regression Testing your SQL queries
 - [commerce-wave/wtree](https://github.com/commerce-wave/wtree) - `wtree` is a CLI tool that leverages Git's worktree feature to easily set up and manage parallel development environments where you can work on multiple branches simultaneously.
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [kennycha/soft-landing](https://github.com/kennycha/soft-landing) - A web-based tool that generates ready-to-use landing pages from TOML configuration
@@ -545,6 +544,7 @@
 
 ## postgresql 
 
+- [boringSQL/regresql](https://github.com/boringSQL/regresql) - Regression Testing your SQL queries
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
@@ -669,6 +669,7 @@
 
 ## sql 
 
+- [boringSQL/regresql](https://github.com/boringSQL/regresql) - Regression Testing your SQL queries
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
@@ -722,6 +723,7 @@
 
 ## testing 
 
+- [boringSQL/regresql](https://github.com/boringSQL/regresql) - Regression Testing your SQL queries
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 
