@@ -516,6 +516,7 @@
 
 ## others 
 
+- [waymakerlabs/claux](https://github.com/waymakerlabs/claux) - A lightweight, native macOS terminal app designed specifically for Claude Code
 - [commerce-wave/wtree](https://github.com/commerce-wave/wtree) - `wtree` is a CLI tool that leverages Git's worktree feature to easily set up and manage parallel development environments where you can work on multiple branches simultaneously.
 - [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) - Diagram as Code Tool Written in Rust with Draggable Editing
 - [kennycha/soft-landing](https://github.com/kennycha/soft-landing) - A web-based tool that generates ready-to-use landing pages from TOML configuration
