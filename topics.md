@@ -40,6 +40,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [fastapi](#fastapi)
 - [framework](#framework)
 - [frontend](#frontend)
 - [generative-ai](#generative-ai)
@@ -310,6 +311,10 @@
 ## dotnet 
 
 - [yourtablecloth/TableCloth](https://github.com/yourtablecloth/TableCloth) - 식탁보 프로젝트
+
+## fastapi 
+
+- [gnuboard/g6](https://github.com/gnuboard/g6) - 파이썬 게시판 그누보드6 : GNUBOARD6 is Python CMS with fastapi
 
 ## framework 
 
