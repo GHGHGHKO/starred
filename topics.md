@@ -117,6 +117,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [visualization](#visualization)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
 - [webapp](#webapp)
@@ -129,6 +130,7 @@
 
 ## agent 
 
+- [millionco/expect](https://github.com/millionco/expect) - Let agents test your code in a real browser
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 ## ai 
@@ -298,6 +300,7 @@
 
 ## docker 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [furkan/dockerlings](https://github.com/furkan/dockerlings) - learn docker in your terminal, with bite sized exercises
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -352,6 +355,7 @@
 
 ## golang 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [boringSQL/regresql](https://github.com/boringSQL/regresql) - Catch broken queries and performance regressions before production. SQL regression testing, EXPLAIN plan baselines, and CI/CD integration for PostgreSQL.
 
@@ -790,6 +794,10 @@
 ## visualization 
 
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
+
+## vuejs 
+
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 
 ## web 
 
