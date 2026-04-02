@@ -131,7 +131,7 @@
 
 ## agent 
 
-- [millionco/expect](https://github.com/millionco/expect) - Let agents test your code in a real browser
+- [millionco/expect](https://github.com/millionco/expect) - Expect tests your app in a browser so you don't have to.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 ## ai 
@@ -163,6 +163,7 @@
 
 ## api 
 
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [yybmion/public-apis-4Kr](https://github.com/yybmion/public-apis-4Kr) - 한국 서비스에 이용 가능한 Public API 모음 | Public APIs Available for Korean Services
 - [GHGHGHKO/klassic-quote-api](https://github.com/GHGHGHKO/klassic-quote-api) - Korean movie quotes API
 - [DDtKey/protect-endpoints](https://github.com/DDtKey/protect-endpoints) - Authorization extension for popular web-frameworks to protect your endpoints
@@ -218,6 +219,7 @@
 
 ## cli 
 
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [boringSQL/regresql](https://github.com/boringSQL/regresql) - Catch broken queries and performance regressions before production. SQL regression testing, EXPLAIN plan baselines, and CI/CD integration for PostgreSQL.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -490,6 +492,7 @@
 
 ## mcp 
 
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## mobile 
@@ -777,6 +780,7 @@
 
 ## typescript 
 
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
