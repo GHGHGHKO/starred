@@ -87,6 +87,7 @@
 
 ## Others 
 
+- [legalize-kr/legalize-kr](https://github.com/legalize-kr/legalize-kr) - 대한민국 법령을 Git 저장소로 관리합니다. 각 법령은 Markdown 파일이고, 각 개정은 실제 공포일자를 가진 Git commit입니다.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
@@ -160,7 +161,7 @@
 
 ## TypeScript 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 89 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your app in a browser so you don't have to.
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
