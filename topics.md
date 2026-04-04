@@ -41,6 +41,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -163,7 +164,7 @@
 
 ## api 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 89 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [yybmion/public-apis-4Kr](https://github.com/yybmion/public-apis-4Kr) - 한국 서비스에 이용 가능한 Public API 모음 | Public APIs Available for Korean Services
 - [GHGHGHKO/klassic-quote-api](https://github.com/GHGHGHKO/klassic-quote-api) - Korean movie quotes API
 - [DDtKey/protect-endpoints](https://github.com/DDtKey/protect-endpoints) - Authorization extension for popular web-frameworks to protect your endpoints
@@ -219,7 +220,7 @@
 
 ## cli 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 89 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [boringSQL/regresql](https://github.com/boringSQL/regresql) - Catch broken queries and performance regressions before production. SQL regression testing, EXPLAIN plan baselines, and CI/CD integration for PostgreSQL.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -325,6 +326,10 @@
 ## dotnet 
 
 - [yourtablecloth/TableCloth](https://github.com/yourtablecloth/TableCloth) - 식탁보 프로젝트
+
+## esp32 
+
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 ## fastapi 
 
@@ -492,7 +497,7 @@
 
 ## mcp 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 89 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## mobile 
@@ -550,6 +555,7 @@
 
 ## others 
 
+- [legalize-kr/legalize-kr](https://github.com/legalize-kr/legalize-kr) - 대한민국 법령을 Git 저장소로 관리합니다. 각 법령은 Markdown 파일이고, 각 개정은 실제 공포일자를 가진 Git commit입니다.
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
@@ -780,7 +786,7 @@
 
 ## typescript 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 87 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 89 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
