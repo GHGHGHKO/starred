@@ -20,6 +20,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [chatgpt](#chatgpt)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cms](#cms)
 - [code](#code)
@@ -132,7 +133,7 @@
 
 ## agent 
 
-- [millionco/expect](https://github.com/millionco/expect) - Expect tests your app in a browser so you don't have to.
+- [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 ## ai 
@@ -217,6 +218,12 @@
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
+
+## claude-code 
+
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 
 ## cli 
 
