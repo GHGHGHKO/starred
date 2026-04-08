@@ -48,6 +48,7 @@
 
 ## HTML 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -162,7 +163,7 @@
 
 ## TypeScript 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 89 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 39개 API → 14개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 39 Korean legal APIs → 14 MCP tools
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
