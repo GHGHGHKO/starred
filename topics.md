@@ -11,6 +11,7 @@
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
+- [angular](#angular)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -107,6 +108,7 @@
 - [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
+- [springboot](#springboot)
 - [sql](#sql)
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
@@ -164,6 +166,10 @@
 ## android 
 
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
+
+## angular 
+
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
 
 ## api 
 
@@ -321,6 +327,7 @@
 
 ## docker 
 
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [furkan/dockerlings](https://github.com/furkan/dockerlings) - learn docker in your terminal, with bite sized exercises
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
@@ -434,6 +441,7 @@
 
 ## java 
 
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## javascript 
@@ -605,6 +613,7 @@
 
 ## postgresql 
 
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
 - [boringSQL/regresql](https://github.com/boringSQL/regresql) - Catch broken queries and performance regressions before production. SQL regression testing, EXPLAIN plan baselines, and CI/CD integration for PostgreSQL.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
@@ -731,6 +740,10 @@
 ## spring-boot 
 
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+## springboot 
+
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
 
 ## sql 
 
