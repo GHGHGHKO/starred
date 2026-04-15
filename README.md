@@ -61,7 +61,7 @@
 
 ## Java 
 
-- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/ - Loci is a production ready real-time messaging system building on top of Domain Driven Design mindset and Hexagonal Architecture
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
 
@@ -165,7 +165,8 @@
 
 ## TypeScript 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 14개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 14 MCP tools
+- [kargnas/damn-my-slow-kt](https://github.com/kargnas/damn-my-slow-kt) - 명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다.
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 15개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 15 MCP tools
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
