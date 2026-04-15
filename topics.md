@@ -123,6 +123,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [visualization](#visualization)
+- [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
@@ -143,6 +144,7 @@
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -169,11 +171,11 @@
 
 ## angular 
 
-- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/ - Loci is a production ready real-time messaging system building on top of Domain Driven Design mindset and Hexagonal Architecture
 
 ## api 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 14개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 14 MCP tools
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 15개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 15 MCP tools
 - [yybmion/public-apis-4Kr](https://github.com/yybmion/public-apis-4Kr) - 한국 서비스에 이용 가능한 Public API 모음 | Public APIs Available for Korean Services
 - [GHGHGHKO/klassic-quote-api](https://github.com/GHGHGHKO/klassic-quote-api) - Korean movie quotes API
 - [DDtKey/protect-endpoints](https://github.com/DDtKey/protect-endpoints) - Authorization extension for popular web-frameworks to protect your endpoints
@@ -237,7 +239,8 @@
 
 ## cli 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 14개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 14 MCP tools
+- [kargnas/damn-my-slow-kt](https://github.com/kargnas/damn-my-slow-kt) - 명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다.
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 15개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 15 MCP tools
 - [boringSQL/regresql](https://github.com/boringSQL/regresql) - Catch broken queries and performance regressions before production. SQL regression testing, EXPLAIN plan baselines, and CI/CD integration for PostgreSQL.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -327,7 +330,7 @@
 
 ## docker 
 
-- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/ - Loci is a production ready real-time messaging system building on top of Domain Driven Design mindset and Hexagonal Architecture
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [furkan/dockerlings](https://github.com/furkan/dockerlings) - learn docker in your terminal, with bite sized exercises
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
@@ -441,7 +444,7 @@
 
 ## java 
 
-- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/ - Loci is a production ready real-time messaging system building on top of Domain Driven Design mindset and Hexagonal Architecture
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## javascript 
@@ -517,7 +520,7 @@
 
 ## mcp 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 14개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 14 MCP tools
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 15개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 15 MCP tools
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## mobile 
@@ -562,6 +565,7 @@
 
 ## open-source 
 
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit) - AI-powered Git commit message generator using   Claude Code SDK. Intelligently analyzes code changes and   generates contextual commit messages with multi-language support and advanced features.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
@@ -577,7 +581,6 @@
 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [legalize-kr/legalize-kr](https://github.com/legalize-kr/legalize-kr) - 대한민국 법령을 Git 저장소로 관리합니다. 각 법령은 Markdown 파일이고, 각 개정은 실제 공포일자를 가진 Git commit입니다.
-- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [commerce-wave/wtree](https://github.com/commerce-wave/wtree) - `wtree` is a CLI tool that leverages Git's worktree feature to easily set up and manage parallel development environments where you can work on multiple branches simultaneously.
@@ -613,7 +616,7 @@
 
 ## postgresql 
 
-- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/ - Loci is a production ready real-time messaging system building on top of Domain Driven Design mindset and Hexagonal Architecture
 - [boringSQL/regresql](https://github.com/boringSQL/regresql) - Catch broken queries and performance regressions before production. SQL regression testing, EXPLAIN plan baselines, and CI/CD integration for PostgreSQL.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
@@ -743,7 +746,7 @@
 
 ## springboot 
 
-- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/
+- [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/ - Loci is a production ready real-time messaging system building on top of Domain Driven Design mindset and Hexagonal Architecture
 
 ## sql 
 
@@ -816,7 +819,7 @@
 
 ## typescript 
 
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 14개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 14 MCP tools
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 15개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 15 MCP tools
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -839,6 +842,10 @@
 ## visualization 
 
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
+
+## vue 
+
+- [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 
 ## vuejs 
 
