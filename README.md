@@ -167,7 +167,7 @@
 ## TypeScript 
 
 - [kargnas/damn-my-slow-kt](https://github.com/kargnas/damn-my-slow-kt) - 명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다.
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 15개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 | 41 Korean legal APIs → 15 MCP tools
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP | 법제처 41개 API → 16개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 + LLM 환각 방지 인용 검증 | 41 Korean legal APIs → 16 MCP tools with AI citation hallucination guard
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
