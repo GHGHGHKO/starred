@@ -17,16 +17,19 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
 - [backend](#backend)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [chatgpt](#chatgpt)
 - [claude-code](#claude-code)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [command-line](#command-line)
 - [computer-science](#computer-science)
+- [continuous-integration](#continuous-integration)
 - [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
@@ -50,6 +53,7 @@
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
+- [go](#go)
 - [golang](#golang)
 - [gradle](#gradle)
 - [graphql](#graphql)
@@ -212,6 +216,10 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+## aws 
+
+- [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
+
 ## backend 
 
 - [ESchouten/CleanArchitecture](https://github.com/ESchouten/CleanArchitecture) - Kotlin backend based on the Clean Architecture principles. Ktor, JWT, Exposed, Flyway, OpenAPI/REST & KGraphQL/GraphQL generated endpoints, Gradle.
@@ -251,6 +259,10 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [michaelsogos/pg-diff](https://github.com/michaelsogos/pg-diff) - PostgreSQL schema and data comparing tool
 
+## cloud 
+
+- [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
+
 ## cms 
 
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -267,6 +279,10 @@
 ## computer-science 
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## continuous-integration 
+
+- [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 
 ## crawler 
 
@@ -315,6 +331,7 @@
 
 ## developer-tools 
 
+- [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
 
@@ -387,6 +404,10 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management) - :octocat:  Github로 프로젝트 관리하기
+
+## go 
+
+- [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 
 ## golang 
 
@@ -803,6 +824,7 @@
 
 ## testing 
 
+- [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 
