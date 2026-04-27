@@ -600,6 +600,7 @@
 
 ## others 
 
+- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬
 - [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [legalize-kr/legalize-kr](https://github.com/legalize-kr/legalize-kr) - 대한민국 법령을 Git 저장소로 관리합니다. 각 법령은 Markdown 파일이고, 각 개정은 실제 공포일자를 가진 Git commit입니다.
