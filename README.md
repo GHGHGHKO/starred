@@ -11,11 +11,11 @@
 - [Go](#go)
 - [Go Template](#go-template)
 - [HTML](#html)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -61,10 +61,6 @@
 - [HomoEfficio/dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [trung-kieen/loci-chat](https://github.com/trung-kieen/loci-chat) - https://locichat.uk/ - Loci is a production ready real-time messaging system building on top of Domain Driven Design mindset and Hexagonal Architecture
@@ -92,6 +88,10 @@
 - [Rudge/kotlin-ktor-realworld-example-app](https://github.com/Rudge/kotlin-ktor-realworld-example-app) - Real world backend API built in Kotlin with Ktor + Kodein + Exposed
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [ESchouten/CleanArchitecture](https://github.com/ESchouten/CleanArchitecture) - Kotlin backend based on the Clean Architecture principles. Ktor, JWT, Exposed, Flyway, OpenAPI/REST & KGraphQL/GraphQL generated endpoints, Gradle.
+
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Others 
 
