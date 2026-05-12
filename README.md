@@ -176,6 +176,7 @@
 
 ## TypeScript 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [kargnas/damn-my-slow-kt](https://github.com/kargnas/damn-my-slow-kt) - 명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다.
 - [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 국가법령정보MCP v4.0 | 법제처 41개 API → 17개 MCP 도구. 법령·판례·조례 검색 + LLM 환각 방지 인용검증 + 조문 영향 그래프(impact_map) + 시점 비교 자동 diff(time_travel) + 시민 5단계 실행 가이드(action_plan) | 41 Korean legal APIs → 17 MCP tools
