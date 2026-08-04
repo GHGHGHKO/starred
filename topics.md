@@ -591,7 +591,7 @@
 - [GHGHGHKO/klassic-quote](https://github.com/GHGHGHKO/klassic-quote) - A REST API for Korean classic movies quotes
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [GHGHGHKO/dalgona](https://github.com/GHGHGHKO/dalgona) - 🦀Tauri desktop app with shadcn/ui, Next.js, GIF meme finder app for Windows and macOS. (dalgona)
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
 
 ## no-code 
 
