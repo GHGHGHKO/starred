@@ -645,6 +645,7 @@
 
 ## others 
 
+- [team-attention/plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives) - Claude Code plugins for power users
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [335/scouter-mcp](https://github.com/335/scouter-mcp) - MCP server for Scouter APM — query monitored objects, counters, and XLog transactions via a Scouter collector
