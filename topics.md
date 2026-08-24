@@ -96,6 +96,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [productivity](#productivity)
 - [programming-language](#programming-language)
@@ -691,6 +692,11 @@
 - [Imnyeong/delivery-king-thunderbolt](https://github.com/Imnyeong/delivery-king-thunderbolt) - 2D Mobile Game, Using acceleration sensors
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [woowacourse/woowacourse-docs](https://github.com/woowacourse/woowacourse-docs) - 우아한테크코스 문서를 관리하는 저장소
+
+## portfolio 
+
+- [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) - Blog theme for Astro with search and comments built-in. Zero frameworks.
+- [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
 
 ## postgresql 
 
