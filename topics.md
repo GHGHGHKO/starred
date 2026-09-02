@@ -151,7 +151,7 @@
 
 ## agent 
 
-- [micro/mu](https://github.com/micro/mu) - One home for agents, tools and services
+- [micro/mu](https://github.com/micro/mu) - A home for agents, tools and services
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
@@ -169,7 +169,7 @@
 
 ## ai 
 
-- [micro/mu](https://github.com/micro/mu) - One home for agents, tools and services
+- [micro/mu](https://github.com/micro/mu) - A home for agents, tools and services
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -591,7 +591,7 @@
 
 ## mcp 
 
-- [micro/mu](https://github.com/micro/mu) - One home for agents, tools and services
+- [micro/mu](https://github.com/micro/mu) - A home for agents, tools and services
 - [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedents, and ordinances, and verify citations
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
