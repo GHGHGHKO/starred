@@ -54,7 +54,7 @@
 
 ## Go 
 
-- [micro/mu](https://github.com/micro/mu) - Tools for agents
+- [micro/mu](https://github.com/micro/mu) - A runtime for agents, tools and services
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -203,6 +203,7 @@
 
 ## TypeScript 
 
+- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
