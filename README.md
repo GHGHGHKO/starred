@@ -165,6 +165,7 @@
 
 ## Rust 
 
+- [kiruna-labs/petal](https://github.com/kiruna-labs/petal) - Petal: low-latency, multi-window screensharing for macOS and Windows. Every shared window becomes a real native window on every participant's desktop.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 - [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
