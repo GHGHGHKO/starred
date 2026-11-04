@@ -205,6 +205,7 @@
 
 ## TypeScript 
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
@@ -215,7 +216,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [kargnas/damn-my-slow-kt](https://github.com/kargnas/damn-my-slow-kt) - 명령어 설치 한번으로 한달 KT 인터넷 요금을 무료로 쓸 수 있습니다. 귀찮은 공문 작성 필요 없습니다.
-- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedents, and ordinances, and verify citations
+- [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) - 법령·판례를 AI가 찾고 인용까지 검증하는 MCP 서버 — 법제처 API 42개를 도구 10개로: 법령·조문·별표, 판례·헌재·해석례 23개 도메인, 조례 정비 레이더, 신구조문대비표 | MCP server for Korean law — statutes, precedents, ordinances, comparison tables and citation ve
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
