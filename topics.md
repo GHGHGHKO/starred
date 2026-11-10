@@ -83,7 +83,6 @@
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
-- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -158,8 +157,8 @@
 
 ## agent 
 
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The coding harness with Hermes Agent wired into IDE.
-- [micro/mu](https://github.com/micro/mu) - The runtime for personal assistants
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
+- [micro/mu](https://github.com/micro/mu) - An open runtime for personal assistants.
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [xataio/agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
@@ -181,7 +180,7 @@
 ## ai 
 
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The coding harness with Hermes Agent wired into IDE.
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -206,7 +205,7 @@
 
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The coding harness with Hermes Agent wired into IDE.
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
 
 ## ai-agents 
 
@@ -308,7 +307,7 @@
 ## claude-code 
 
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The coding harness with Hermes Agent wired into IDE.
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -626,10 +625,6 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-## mac 
-
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
-
 ## machine-learning 
 
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -921,7 +916,7 @@
 
 ## skills 
 
-- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The coding harness with Hermes Agent wired into IDE.
+- [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## software 
